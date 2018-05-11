@@ -52,3 +52,6 @@ python3 Distance_Matrix_phylum_based.py
 
 ### Extra: Convert jupyter notebook to regular python script
 jupyter nbconvert --to script Distance_Matrix_phylum_based.ipynb
+
+
+![image](https://user-images.githubusercontent.com/18738632/39929009-ec4b4a6c-5504-11e8-88b1-e4717472b280.png)
