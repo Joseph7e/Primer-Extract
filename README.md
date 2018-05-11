@@ -28,7 +28,7 @@ blastn -task blastn-short -query $concatenated_primers -subject ../metazoa.fasta
 cutadapt --discard-untrimmed -g $forward_primer 99_otus_18S.fasta 2> /dev/null | cutadapt --discard-untrimmed -a $reverse_primer - 2> /dev/null > extracted_region.fasta
 
 
-## Method 3: CLC in silco PCR extraction
+### Method 3: CLC in silco PCR extraction
 CLC has a tool that uses BLAST, similiar to above. Results are consitent across the three methods.
 
 
