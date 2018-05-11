@@ -8,7 +8,6 @@ import os, statistics
 
 working_dir = "/mnt/lustre/hcgs/joseph7e/program_PrimerRegionExtractor/extract_from_blast/"
 
-input_data = "parsed_data.csv"
 distance_path = working_dir + "distance_matrixes/"
 matrix_files = [distance_path + x for x in os.listdir(distance_path)]
 
