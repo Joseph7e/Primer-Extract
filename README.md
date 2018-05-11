@@ -4,8 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/18738632/39929009-ec4b4a6c-5504-11e8-88b1-e4717472b280.png)
 
-![image](https://user-images.githubusercontent.com/18738632/39931297-f2530aac-550a-11e8-8fdd-1475f91ee71a.png)
-
+![image](https://user-images.githubusercontent.com/18738632/39932062-2125a48c-550d-11e8-902f-9c8a361fd022.png)
 
 # Methods:
 
